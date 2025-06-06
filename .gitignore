@@ -1,0 +1,7 @@
+**/.dockerignore
+**/__pycache__
+**/.env
+**/.DS_Store
+**/.git
+**/.vs
+**/.vscode
